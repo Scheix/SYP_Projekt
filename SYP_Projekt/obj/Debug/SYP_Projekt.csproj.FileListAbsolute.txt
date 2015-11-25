@@ -32,3 +32,6 @@ C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projek
 C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe.config
 C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.exe
 C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.pdb
+C:\Users\sacev\Source\Repos\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe.config
+C:\Users\sacev\Source\Repos\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.exe
+C:\Users\sacev\Source\Repos\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.pdb
