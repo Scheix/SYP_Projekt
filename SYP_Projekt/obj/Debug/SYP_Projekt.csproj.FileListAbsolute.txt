@@ -1,0 +1,34 @@
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmBestellungErfassen.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRahmenHinzufuegen.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmMenueFenster.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRechnungErstellen.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmLeistenBestellen.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRahmenLeistenUebersicht.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmExtraInfo.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe.config
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.exe
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.pdb
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.pdb
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmBestellungErfassen.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmExtraInfo.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmLeistenBestellen.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmPreise.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRahmenHinzufuegen.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRahmenLeistenUebersicht.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmMenueFenster.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.frmRechnungErstellen.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.Properties.Resources.resources
+C:\Users\Michael\Desktop\Eigene Dateien\Schule\4.Klasse\Programmieren\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.csproj.GenerateResource.Cache
+C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\bin\Debug\SYP_Projekt.exe.config
+C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.exe
+C:\Sachen\Schule\4.Klasse\SYP\Projekte\SYP_Projekt\SYP_Projekt\obj\Debug\SYP_Projekt.pdb
